@@ -8,9 +8,11 @@
 
 ## 工具
 
+工作流调用顺序、提示模板、输入输出与恢复方式见 `WORKFLOW.md`。它是执行约定，不是一次性自动启动完整科研流水线的授权。
+
 ARIS Codex 技能安装于项目 `.agents/skills/`，辅助脚本位于 `.aris/tools/`。Windows 上使用 `.venv/Scripts/python.exe` 执行 Python 工具。安装状态见 `docs/tooling-setup.md`。
 
-优先使用 research-lit、novelty-check、idea-creator、research-review 和 research-wiki。使用 idea-discovery 时，只完成文献与方案分析，跳过实验阶段并明确记录未验证。技能说明中提到外部服务不代表本机已认证或可用。
+优先使用 research-lit、novelty-check、idea-creator、research-review 和 research-wiki。使用 idea-creator 或 idea-discovery 时，只完成文献与方案分析，跳过默认 pilot 和实验阶段并明确记录未验证。技能说明中提到外部服务不代表本机已认证或可用。
 
 同模型复核必须标为同模型复核；不能冒充跨模型审查，也不能据此声称投稿质量已经通过独立评审。
 

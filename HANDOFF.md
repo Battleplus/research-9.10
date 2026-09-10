@@ -1,5 +1,7 @@
 # 给执行 AI 的任务
 
+调用入口：先读 [WORKFLOW.md](WORKFLOW.md)，其中定义技能顺序、逐步提示、输入输出、失败处理及阶段停止条件。
+
 请接手本仓库的选题规划。目标是在 A− 档及以上成果目标下，结合研究连续性、难度与就业，推荐一个主课题、一个关联副课题及后续路线。当前只定方向，没有开始具体研究实验。
 
 先读 `AGENTS.md`、`docs/direction-selection-execution-plan.md`、`docs/continuous-research-roadmap.md`、`docs/tooling-setup.md`，以最新明确要求为准。请实际完成规划中的资料阅读、查新、代码静态分析、候选比较和反向审查，不只复述一个计划。
