@@ -6,7 +6,9 @@
 
 工具与验证范围见[安装记录](docs/tooling-setup.md)。
 
-**当前优先路线：[偏好强化学习 → 约束强化学习 → 世界模型](docs/continuous-research-roadmap.md)。** 以课题连续性、资产复用和就业技能积累安排主副课题；尚待个人已有积累、指导和实验资源确认。
+**当前研究核心：多智能体偏好学习。** 已确认做过偏好强化学习和世界模型；接下来比较偏好学习与世界模型、约束学习、多目标适应三条连续路线，形成主副课题建议，暂不锁定阶段顺序。
+
+**交给另一个 AI 执行：先读 [HANDOFF.md](HANDOFF.md)，再按[选题阶段执行规划](docs/direction-selection-execution-plan.md)开展阅读、查新和方向比较。** 交付方向决策，不启动训练实验。
 
 ## 采用哪些开源项目
 
@@ -19,7 +21,7 @@
 
 ## 文档导航
 
-**先读：[连续研究路线](docs/continuous-research-roadmap.md)，这是当前决策依据。**
+**最新执行依据：[选题阶段执行规划](docs/direction-selection-execution-plan.md)。** [连续研究路线](docs/continuous-research-roadmap.md)保留各课题的衔接分析，具体次序待比较确定。
 
 1. [执行规划](docs/plan.md)：阶段、交付物、实验门槛与投稿准备。
 2. [候选项目与讨论清单](docs/project-shortlist.md)：早期独立课题备选及必读论文；优先级以连续路线为准。
