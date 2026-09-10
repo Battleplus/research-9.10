@@ -1,0 +1,16 @@
+*.xlsx
+*.xls
+*.pdf
+.env
+.env.*
+!.env.example
+__pycache__/
+.venv/
+data/
+datasets/
+checkpoints/
+runs/
+private/
+*.pt
+*.pth
+*.ckpt
