@@ -8,7 +8,7 @@
 
 **工作流怎样调用：[调用手册](WORKFLOW.md)**，包含技能顺序、可复制提示、输入输出、断点恢复和选题模式限制。
 
-**当前研究核心：多智能体偏好学习。** 已确认做过偏好强化学习和世界模型；接下来比较偏好学习与世界模型、约束学习、多目标适应三条连续路线，形成主副课题建议，暂不锁定阶段顺序。
+**当前研究核心：多智能体偏好学习。** 已确认做过偏好强化学习和世界模型；当前规划为 A2 偏好反馈查询作为首篇候选、A1 时空信用分配作为后续、B 约束学习条件成熟后拓展、C 多目标适应备选。A2 有条件推进，仍待问题证据与可复用资源确认。
 
 **交给另一个 AI 执行：先读 [HANDOFF.md](HANDOFF.md)，再按[选题阶段执行规划](docs/direction-selection-execution-plan.md)开展阅读、查新和方向比较。** 交付方向决策，不启动训练实验。
 
@@ -23,7 +23,14 @@
 
 ## 文档导航
 
-**最新执行依据：[选题阶段执行规划](docs/direction-selection-execution-plan.md)。** [连续研究路线](docs/continuous-research-roadmap.md)保留各课题的衔接分析，具体次序待比较确定。
+**最新决策：[方向决策](direction-selection/DECISION.md)与[当前状态](direction-selection/STATUS.md)。**
+
+- [学长学姐视角的实践判断](direction-selection/SENIOR-PEER-ASSESSMENT.md)
+- [导师一页讨论稿](direction-selection/MENTOR-ONE-PAGER.md)
+- [导师讨论与资源确认清单](direction-selection/MENTOR-DISCUSSION-RESOURCE-CHECKLIST.md)
+- [最近邻对照](direction-selection/NEAREST-NEIGHBORS.md)与[证据记录](direction-selection/EVIDENCE.md)
+
+[选题阶段执行规划](docs/direction-selection-execution-plan.md)与[连续研究路线](docs/continuous-research-roadmap.md)保留工作流和衔接背景，方向次序以最新决策为准。
 
 1. [执行规划](docs/plan.md)：阶段、交付物、实验门槛与投稿准备。
 2. [候选项目与讨论清单](docs/project-shortlist.md)：早期独立课题备选及必读论文；优先级以连续路线为准。
@@ -32,4 +39,4 @@
 5. [科研自动化开源项目调研](docs/workflow-survey.md)：主要系统与组件的广泛调研，不代表穷尽全网。
 6. [资源讨论记录模板](templates/resource-intake.md)。
 
-下一步整理个人项目积累，并确认偏好与约束课题的共享代码、数据和指导，确定第一阶段的独立研究问题。公开仓库只存可公开的规划和后续研究材料，内部原始选题表与个人联系信息在本地保存。调研时间：2026-09-10。
+下一步索取可复现基线、可解释轨迹与偏好数据、具体协作失败案例，核实主动查询闭环与世界模型的必要性。公开仓库只存可公开的规划和后续研究材料，内部原始选题表与个人联系信息在本地保存。调研时间：2026-09-10。

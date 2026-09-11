@@ -2,3 +2,37 @@
 
 _Append-only timeline._
 - `2026-09-10T11:26:34Z` Wiki initialized
+- `2026-09-10T12:00:39Z` ingest_paper: ingested paper:christiano2017_deep_reinforcement_learning (arxiv:1706.03741)
+- `2026-09-10T12:00:39Z` ingest_paper: ingested paper:kaufmann2023_survey_reinforcement_learning (arxiv:2312.14925)
+- `2026-09-10T12:00:39Z` ingest_paper: ingested paper:zhong2025_comprehensive_survey_reward (arxiv:2504.12328)
+- `2026-09-10T12:00:39Z` ingest_paper: ingested paper:liu2023_efficient_preferencebased_reinforcement (arxiv:2301.04741)
+- `2026-09-10T12:00:39Z` ingest_paper: ingested paper:bui2025_preferenceguided_learning_sparsereward (arxiv:2509.21828)
+- `2026-09-10T12:00:39Z` ingest_paper: ingested paper:li2026_safe_reinforcement_learning (arxiv:2603.23565)
+- `2026-09-10T12:00:39Z` ingest_paper: ingested paper:gong2025_offline_safe_policy (arxiv:2512.20173)
+- `2026-09-10T12:00:39Z` ingest_paper: ingested paper:heo2025_dynamic_preference_multiobjective (arxiv:2506.13153)
+- `2026-09-10T12:00:39Z` ingest_paper: ingested paper:bhamidipaty2026_renew_towards_learning (arxiv:2607.14180)
+- `2026-09-10T12:00:39Z` ingest_paper: ingested paper:mu2026_multiagent_reinforcement_learning (arxiv:2608.08604)
+- `2026-09-10T12:01:12Z` ingest_paper: ingested paper:verma2024_hindsight_priors_reward (arxiv:)
+- `2026-09-10T12:01:13Z` ingest_paper: ingested paper:metcalf2023_sampleefficient_preferencebased_reinforcement (arxiv:)
+- `2026-09-10T12:01:13Z` ingest_paper: ingested paper:cosner2022_safetyaware_preferencebased_learning (arxiv:)
+- `2026-09-10T12:05:30Z` upsert_idea: added idea:route-a-world-model-marl [stage=proposed outcome=pending]
+- `2026-09-10T12:06:01Z` upsert_idea: added idea:route-b-constraints-marl [stage=proposed outcome=pending]
+- `2026-09-10T12:06:18Z` upsert_idea: added idea:route-c-dynamic-preference-morl [stage=proposed outcome=pending]
+- `2026-09-10T12:06:33Z` Direction selection completed: Route A main, Route B related, Route C reserve; no training or pilot run.
+- `2026-09-10T12:07:26Z` ingest_paper: ingested paper:record2026_dynamic_preference_inference (arxiv:)
+- `2026-09-10T12:07:26Z` ingest_paper: ingested paper:buetgolfouse2023_robust_multiobjective_reinforcement (arxiv:)
+- `2026-09-10T13:05:54Z` ingest_paper: ingested paper:kim2025_human_implicit_preferencebased (arxiv:2503.03796)
+- `2026-09-10T13:05:54Z` ingest_paper: ingested paper:shi2025_gawm_globalaware_world (arxiv:2501.10116)
+- `2026-09-10T13:05:54Z` ingest_paper: updated paper:bhamidipaty2026_renew_towards_learning (arxiv:2607.14180)
+- `2026-09-10T13:05:54Z` ingest_paper: updated paper:mu2026_multiagent_reinforcement_learning (arxiv:2608.08604)
+- `2026-09-10T13:05:54Z` ingest_paper: ingested paper:heo2026_policy_likelihoodbased_query (arxiv:)
+- `2026-09-10T13:05:55Z` ingest_paper: ingested paper:kou2025_offline_multiagent_preferencebased (arxiv:)
+- `2026-09-10T13:05:55Z` upsert_idea: updated idea:route-a-world-model-marl [stage=proposed outcome=pending]
+- `2026-09-10T13:05:56Z` upsert_idea: added idea:route-a1-credit-marl [stage=proposed outcome=pending]
+- `2026-09-10T13:05:59Z` 2026-09-10 direction revision: A2 selected as first-paper scope; A1 retained as follow-up. Same-family fresh review completed provisionally. Added joint-interaction-information gate, A1 identifiability objection, nearest-neighbor nodes, and unresolved G5 query-selection gap; no experiments run.
+- `2026-09-10T13:08:37Z` ingest_paper: ingested paper:zhu2024_decoding_global_preferences (arxiv:)
+- `2026-09-10T13:08:38Z` upsert_idea: updated idea:route-a-world-model-marl [stage=proposed outcome=pending]
+- `2026-09-10T13:08:39Z` upsert_idea: updated idea:route-a1-credit-marl [stage=proposed outcome=pending]
+- `2026-09-11T09:58:14Z` upsert_idea: updated idea:route-a-world-model-marl [stage=proposed outcome=pending]
+- `2026-09-11T09:58:15Z` upsert_idea: updated idea:route-a1-credit-marl [stage=proposed outcome=pending]
+- `2026-09-11T09:58:15Z` 2026-09-11 mentor/resource planning: no new literature search and no experiments. Added falsifiable A2 hypothesis, separation of epistemic/aleatoric/reward-model uncertainty, MARL-specific innovation-risk gate, fixed-budget validation design, resource confirmation table, and A2 continue/pause/unknown criteria. Refined A1 into true-credit versus policy-useful decomposition claims.

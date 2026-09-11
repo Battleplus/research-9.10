@@ -1,0 +1,53 @@
+---
+type: paper
+node_id: paper:kaufmann2023_survey_reinforcement_learning
+title: "A Survey of Reinforcement Learning from Human Feedback"
+authors: ["Timo Kaufmann", "Paul Weng", "Viktor Bengs", "Eyke Hüllermeier"]
+year: 2023
+venue: "Transactions on Machine Learning Research, 2025"
+external_ids:
+  arxiv: "2312.14925"
+  doi: null
+  s2: null
+tags: []
+added: 2026-09-10T12:00:39Z
+---
+
+# A Survey of Reinforcement Learning from Human Feedback
+
+## One-line thesis
+_TODO: fill in after reading._
+
+## Problem / Gap
+_TODO._
+
+## Method
+_TODO._
+
+## Key Results
+_TODO._
+
+## Assumptions
+_TODO._
+
+## Limitations / Failure Modes
+_TODO._
+
+## Reusable Ingredients
+_TODO._
+
+## Open Questions
+_TODO._
+
+## Claims
+_TODO._
+
+## Connections
+_Edges are recorded in `graph/edges.jsonl`; summarize here for human readers._
+
+## Relevance to This Project
+_TODO._
+
+## Abstract (original)
+
+> Reinforcement learning from human feedback (RLHF) is a variant of reinforcement learning (RL) that learns from human feedback instead of relying on an engineered reward function. Building on prior work on the related setting of preference-based reinforcement learning (PbRL), it stands at the intersection of artificial intelligence and human-computer interaction. This positioning provides a promising approach to enhance the performance and adaptability of intelligent systems while also improving the alignment of their objectives with human values. The success in training large language models (LLMs) has impressively demonstrated this potential in recent years, where RLHF has played a decisive role in directing the model's capabilities towards human objectives. This article provides an overview of the fundamentals of RLHF, exploring how RL agents interact with human feedback. While recent focus has been on RLHF for LLMs, our survey covers the technique across multiple domains. We provide our most comprehensive coverage in control and robotics, where many fundamental techniques originate, alongside a dedicated LLM section. We examine the core principles that underpin RLHF, how algorithms and human feedback work together, and the main research trends in the field. Our goal is to give researchers and practitioners a clear understanding of this rapidly growing field.
